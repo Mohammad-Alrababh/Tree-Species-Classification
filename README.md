@@ -69,5 +69,8 @@ ResNet18 is a convolutional neural network model commonly used for image classif
 The model achieved satisfactory classification accuracy based on the dataset provided. Below are some key evaluation metrics:
 - **Training Accuracy**: 33.72%
 - **Validation Accuracy**: 35.13%
-- **Accuracy vs. No. of epochs**: 
-![Accuracy vs. No. of epochs](images/Accuracy.png)
+- **Accuracy vs. No. of epochs**:
+- 
+<p align="center">
+  <img src="images/Accuracy.png" alt="Accuracy vs. No. of epochs" width="300">
+</p>
