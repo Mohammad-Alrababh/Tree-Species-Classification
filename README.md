@@ -70,7 +70,7 @@ The model achieved satisfactory classification accuracy based on the dataset pro
 - **Training Accuracy**: 33.72%
 - **Validation Accuracy**: 35.13%
 - **Accuracy vs. No. of epochs**:
-- 
+  
 <p align="center">
-  <img src="images/Accuracy.png" alt="Accuracy vs. No. of epochs" width="300">
+  <img src="images/Accuracy.png" alt="Accuracy vs. No. of epochs" width="572">
 </p>
